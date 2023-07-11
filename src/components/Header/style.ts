@@ -1,7 +1,7 @@
 import styled from 'styled-components';
 
 export const HeaderContainer = styled.div<{ show: boolean }>`
-	width: 100vw;
+	width: 100%;
 	height: 8vh;
 	border-bottom: 0.5px solid #c9cdd2;
 	background-color: white;
